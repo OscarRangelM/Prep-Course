@@ -205,7 +205,7 @@ Ver estos enlaces:
 
 <https://www.youtube.com/watch?v=oV0spTF71AI>
 
-#### Para Windows
+#### Para Windows  
 
 Ingreso a <https://git-scm.com> y descargo la útlima versión.
 
